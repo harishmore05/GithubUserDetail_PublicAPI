@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "github-login-auth-90d5a": {
+      "hosting": {
+        "github-login-firebase-new": [
+          "github-login-auth-90d5a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "github-login-auth-90d5a"
+  }
+}
