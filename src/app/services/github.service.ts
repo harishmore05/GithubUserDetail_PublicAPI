@@ -19,4 +19,3 @@ export class GithubService {
     return this.http.get(repoUrl);
   }
 }
-
